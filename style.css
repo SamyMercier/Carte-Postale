@@ -1,0 +1,83 @@
+#cadre{
+    border:2px solid black;
+    margin:5% 30% ;
+    padding:40px 0 40px 20px;
+    width:650px;
+    height:300px;
+}
+
+#zone-de-texte{
+    display: inline-block;
+    margin-right:10px;
+    padding-top:60px;
+    vertical-align: top;
+}
+
+#list{
+    list-style-type: none;
+    font-family: 'Fjalla One', sans-serif;
+    font-size:18px;
+}
+
+#passe-ligne{
+    padding-top:5px;
+}
+
+#cadre-timbre{
+    border:1px solid black;
+    width:50px;
+    height: 60px;
+    margin-left:200px;
+    margin-right:10px;
+}
+
+#ligne-1{
+    border-top:1px solid black;
+    margin-top:80px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#ligne-2{
+    border-top:1px solid black;
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#ligne-3{
+    border-top:1px solid black;
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#zone-a-droite{
+    display: inline-block;
+    border-left: 2px solid black;
+    vertical-align: top;
+    margin-bottom:0;
+    padding-bottom:20px;
+}
+
+#zone-bas-droite{
+    margin-top:40px;
+}
+
+.rectangle{
+    border:1px solid black;
+    padding-right:20px;
+    padding-top:5px;
+    margin-left:5px;
+}
+
+#ligne-noire{
+    border-bottom:1px solid black;
+    margin-left:20px;
+    margin-right:10px;
+    padding-right:100px;
+}
+
+#rect-1{
+    margin-left:20px;
+}
